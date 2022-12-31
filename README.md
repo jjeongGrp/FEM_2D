@@ -1,6 +1,6 @@
 # FEM_2D 
 FEM code for educational purposes 
-- originally created by Phill-Seung Lee, KAIST 
+- originally created by PS Lee, KAIST 
 - modified by jjeongGrp
 - displacement-based quadrilateral plane stress element 
 
